@@ -1,6 +1,6 @@
 from scapy.all import sniff
 
-IFACE = r"\Device\NPF_{CDE0F71D-A0FF-49CF-91FB-5CD64A4758A9}"
+IFACE = r"\Device\NPF_{ENTER_YOUR_ID_HERE}"
 
 
 def handle_packet(pkt):
