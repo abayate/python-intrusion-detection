@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+ids_alerts.log
+.venv/
